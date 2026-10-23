@@ -6,3 +6,4 @@ Here is a list of various DevRel activities I've been inovled with.
 * [Demos and Webinars](https://www.youtube.com/playlist?list=PLvuF36Z5jU-OHDLOT0KgN2x1s9CK8coac): This is a playlist of various demos and webinars I've been a part of.
 * [GitOps Guide to the Galaxy](https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqfGCkI28cUMbNhPhsnj4nq3): Up until June of 2022, I was a co-host to a bi-weekly stream talking about GitOps, Argo CD, and Red Hat OpenShift. **Episodes 1-38** (I've also returned as a guest from time to time)
 * [GitOps The Planet](https://www.youtube.com/playlist?list=PL8mgsmlx4BWWcXK9hQbEHmUQwqPmTz-vD): I co-host a twice-a-month stream talking and hacking on all things GitOps.
+* [Isovalent/Cisco](https://isovalent.com/videos/?q=Christian): Videos/Demos/Webinars at Isovalent by Cisco
